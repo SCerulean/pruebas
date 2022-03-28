@@ -12,5 +12,26 @@ body{
 }
 
 .card{
-    border: 1px solid black;
+    border: 4px  black;
+    border-bottom-left-radius: 20px;
+    border-top-right-radius: 30px;
+    
+   
 }
+
+.card img{
+    border-top-right-radius: 30px;
+}
+
+#footer{
+    background-color: black;
+    margin-top: 50px;
+    text-align: center;
+    border: 1px solid black;
+    color: white;
+    margin-bottom: 0px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    
+}
+
