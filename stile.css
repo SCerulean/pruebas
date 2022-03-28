@@ -1,0 +1,16 @@
+body{
+    background-color:rgb(248, 171, 70)
+}
+
+
+#carrucel{
+    height:30%;
+    background-color: black;
+    margin-top: 60px;
+    margin-bottom: 60px
+    
+}
+
+.card{
+    border: 1px solid black;
+}
